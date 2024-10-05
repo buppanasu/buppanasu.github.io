@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b13553b.css",
-    "main.js": "/static/js/main.9a97ce09.js",
+    "main.css": "/static/css/main.95bd9a0c.css",
+    "main.js": "/static/js/main.495303b9.js",
     "static/js/453.b21437c2.chunk.js": "/static/js/453.b21437c2.chunk.js",
+    "static/media/Live2YouApp.png": "/static/media/Live2YouApp.71734bf5fe124c9a901f.png",
+    "static/media/SpaceGames.png": "/static/media/SpaceGames.700bd46ae8961c253a07.png",
+    "static/media/ChirpSense.png": "/static/media/ChirpSense.d21b3849e9b314920017.png",
+    "static/media/EcoRoutes.png": "/static/media/EcoRoutes.6703b5c0225dc43aaf33.png",
+    "static/media/jj2.jpg": "/static/media/jj2.5cfed1f8b2068554568b.jpg",
+    "static/media/LanguageFriend.png": "/static/media/LanguageFriend.09890a91a00aa9abbbbe.png",
+    "static/media/ai-singapore.jpg": "/static/media/ai-singapore.7f17b4ee921ec1ee21ac.jpg",
+    "static/media/Dsail.png": "/static/media/Dsail.c18f1fc596831ac460f5.png",
+    "static/media/GroomNGo.jpg": "/static/media/GroomNGo.c40cd2bf0aa84e1c7896.jpg",
     "index.html": "/index.html",
-    "main.8b13553b.css.map": "/static/css/main.8b13553b.css.map",
-    "main.9a97ce09.js.map": "/static/js/main.9a97ce09.js.map",
+    "main.95bd9a0c.css.map": "/static/css/main.95bd9a0c.css.map",
+    "main.495303b9.js.map": "/static/js/main.495303b9.js.map",
     "453.b21437c2.chunk.js.map": "/static/js/453.b21437c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b13553b.css",
-    "static/js/main.9a97ce09.js"
+    "static/css/main.95bd9a0c.css",
+    "static/js/main.495303b9.js"
   ]
 }
