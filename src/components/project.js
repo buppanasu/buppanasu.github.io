@@ -3,7 +3,7 @@ import React from 'react';
 const ProjectCard = ({ project }) => {
   return (
     <a href={project.videoUrl} target="_blank" rel="noopener noreferrer" className="block max-w-sm rounded overflow-hidden shadow-lg bg-white dark:bg-gray-800 hover:shadow-2xl transform hover:scale-105 transition duration-300">
-    <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white dark:bg-gray-800">
+    <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white dark:bg-slate-900">
       <img className="w-full h-48 object-cover" src={project.image} alt={project.title} />
       <div className="px-6 py-4">
         <h3 className="font-bold text-xl mb-2">{project.title}</h3>

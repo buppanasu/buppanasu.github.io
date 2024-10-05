@@ -33,7 +33,7 @@ function handleLinkClick() {
 
 export default function Navbar() {
   return (
-    <Disclosure as="nav" className="bg-gray-800 fixed top-0 w-full z-50">
+    <Disclosure as="nav" className="bg-slate-900 fixed top-0 w-full z-50">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="relative flex h-20 items-center justify-between">
           <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
@@ -62,15 +62,13 @@ export default function Navbar() {
 
           {/* Social media icons */}
           <div className="flex items-center space-x-6">
-            <a href="" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+            <a href="https://www.linkedin.com/in/ajj2912/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
               <FontAwesomeIcon icon={faLinkedin} className="h-8 w-8" />
             </a>
-            <a href="" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+            <a href="https://github.com/buppanasu" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
               <FontAwesomeIcon icon={faGithub} className="h-8 w-8" />
             </a>
-            <a href="" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
-              <FontAwesomeIcon icon={faInstagram} className="h-8 w-8" />
-            </a>
+
           </div>
         </div>
       </div>
