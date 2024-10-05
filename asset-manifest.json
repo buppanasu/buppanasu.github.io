@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.95bd9a0c.css",
-    "main.js": "/static/js/main.495303b9.js",
+    "main.js": "/static/js/main.0918842d.js",
     "static/js/453.b21437c2.chunk.js": "/static/js/453.b21437c2.chunk.js",
     "static/media/Live2YouApp.png": "/static/media/Live2YouApp.71734bf5fe124c9a901f.png",
     "static/media/SpaceGames.png": "/static/media/SpaceGames.700bd46ae8961c253a07.png",
@@ -14,11 +14,11 @@
     "static/media/GroomNGo.jpg": "/static/media/GroomNGo.c40cd2bf0aa84e1c7896.jpg",
     "index.html": "/index.html",
     "main.95bd9a0c.css.map": "/static/css/main.95bd9a0c.css.map",
-    "main.495303b9.js.map": "/static/js/main.495303b9.js.map",
+    "main.0918842d.js.map": "/static/js/main.0918842d.js.map",
     "453.b21437c2.chunk.js.map": "/static/js/453.b21437c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95bd9a0c.css",
-    "static/js/main.495303b9.js"
+    "static/js/main.0918842d.js"
   ]
 }
