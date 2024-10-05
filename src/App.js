@@ -110,7 +110,7 @@ function App() {
       image: SPACEGAMES,
       date: "Mar 2023",
       techStack: ['Java', 'Visitor Design Pattern', 'Prototype Pattern', 'Iterator Pattern'],
-      videoUrl: "https://youtu.be/Ayy18cVwb8o"
+      videoUrl: "https://www.youtube.com/watch?v=8uuV_0n3cB8"
     },
     {
       title: 'ChirpSense - A Twitter Sentiment Analyser',
